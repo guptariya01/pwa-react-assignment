@@ -61,9 +61,7 @@ This project is a simple **Progressive Web App (PWA)** built with **React + Vite
   "theme_color": "#000000",
   "background_color": "#ffffff"
 }
-
-
-
+```
 ![alt text](image.png)
 
 
